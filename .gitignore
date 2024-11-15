@@ -2,7 +2,7 @@
 .DS_Store
 .ipynb_checkpoints
 
-/data
+/data/places
 
 /notebooks/00-scratchpad.ipynb
 /notebooks/cache
